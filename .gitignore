@@ -12,16 +12,16 @@
 *.la
 *.a
 
-#Linux
+# Linux
 *~
 *.sw[a-p]
 .directory
 
-#Windows
+# Windows
 Thumbs.db
 Desktop.ini
 
-#QtCreator project files
+# QtCreator project files
 *.pro.user
 *.pro.user*
 *~
