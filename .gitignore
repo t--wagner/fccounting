@@ -12,8 +12,17 @@
 *.la
 *.a
 
-# Linux
-*.directory
+#Linux
+*~
+*.sw[a-p]
+.directory
 
-# QT Creator
-*.pro*
+#Windows
+Thumbs.db
+Desktop.ini
+
+#QtCreator project files
+*.pro.user
+*.pro.user*
+*~
+
